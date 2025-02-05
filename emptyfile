@@ -1,0 +1,34 @@
+
+
+1) - Build a list of numbers interactively from user input, put even and odd numbers in two different lists and output the lists to console.
+
+2) - Create two lists of numbers (lst1, lst2) interactively and merge them into a new third sorted list(lst3) and output it to the console.
+
+3) - Interactively build a dictionary, write a function to check if the given 'key' exists in the dictionary. 
+
+4) - Interactively build a dictionary and write a function that adds a key value pair to the dictionary, and another that deletes a pair. 
+
+5) - write a function that takes two lists (of same length) as input and created a dictionary from it.
+
+6) - Build a function that asks words to as user input and created a dictionary of first 'char' as key and the word as value. 
+
+7) - Use 'csv' module to read a simple .csv file and create a dictionary. (HINT: use csv's 'DictReader' method)
+
+8) - Read contents of a .txt file, and print the content to the console
+
+9) - Read content of 'data1.txt' and copy to another new file 'data2.txt'. Confirm the copy and
+print the number of lines in the console. Same can be done to append to an existing file 'data2.txt'
+
+10) - read file 'data.txt', count the number of words and blank spaces, and output to console.
+
+11) - Print the content of 'data.txt' in reverse order to console. (Last line first and so on...)
+
+13) - Write an interactive console program, that takes user input in lines and appends to 
+existing file 'data.txt'
+
+14) - Read a file 'data.txt', find a particular word, say "was" or 'Has" and replace it with "REPLACED" and write back to the file.
+
+15) - Read a file 'data.txt', count and print the following to the console. 
+	Number of Lines in the File: xxx
+	Number of non-empty Words in the File: xxx
+	Number of whitespaces in the File: xxx
